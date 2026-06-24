@@ -1,0 +1,32 @@
+---
+title: ""
+format:
+  html:
+    page-layout: full
+---
+
+::::: columns
+
+::: {.column width="25%" style="text-align: center; padding-top: 3rem; border-right: 1px solid #dee2e6; padding-right: 2rem;"}
+
+![](photo.jpg){style="width:200px; height:200px; border-radius:50%; object-fit:cover;"}
+
+**Your Name**
+
+Your title / affiliation
+
+:::
+
+::: {.column width="75%" style="padding-left: 2rem; padding-top: 3rem;"}
+
+### About
+
+Bio goes here.
+
+### Current Work
+
+Work goes here.
+
+:::
+
+:::::

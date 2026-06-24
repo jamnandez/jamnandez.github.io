@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "James N. Hernandez"
+
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: experience.qmd
+        text: Experience
+      - href: cv.qmd
+        text: CV
+      - href: personal.qmd
+        text: Personal
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    include-in-header:
+      - text: |
+          <script src="theme-toggle.js"></script>

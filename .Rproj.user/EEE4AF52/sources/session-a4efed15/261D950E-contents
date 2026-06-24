@@ -1,0 +1,34 @@
+<script>
+function toggleTheme() {
+  const html = document.documentElement;
+  const btn = document.getElementById('theme-toggle');
+  if (html.getAttribute('data-theme') === 'dark') {
+    html.removeAttribute('data-theme');
+    btn.textContent = 'light';
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.setAttribute('data-theme', 'dark');
+    btn.textContent = 'dark';
+    localStorage.setItem('theme', 'dark');
+  }
+}
+document.addEventListener('DOMContentLoaded', function() {
+  const saved = localStorage.getItem('theme');
+  const navRight = document.querySelector('.navbar-nav.ms-auto');
+  const btn = document.createElement('button');
+  btn.id = 'theme-toggle';
+  btn.onclick = toggleTheme;
+  if (saved === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    btn.textContent = 'dark';
+  } else {
+    btn.textContent = 'light';
+  }
+  if (navRight) {
+    const li = document.createElement('li');
+    li.className = 'nav-item';
+    li.appendChild(btn);
+    navRight.appendChild(li);
+  }
+});
+</script>

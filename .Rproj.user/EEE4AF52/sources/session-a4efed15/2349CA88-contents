@@ -1,0 +1,69 @@
+---
+title: "Projects"
+format:
+  html:
+    page-layout: full
+---
+
+<div class="section-label" style="margin-top: 2rem;">Filter by tag</div>
+
+<div class="filter-bar" id="filter-bar">
+  <button class="filter-btn active" data-tag="all">All</button>
+  <button class="filter-btn" data-tag="EHR">EHR</button>
+  <button class="filter-btn" data-tag="Longitudinal">Longitudinal</button>
+  <button class="filter-btn" data-tag="Causal Inference">Causal inference</button>
+  <button class="filter-btn" data-tag="Machine Learning">Machine learning</button>
+  <button class="filter-btn" data-tag="R">R</button>
+  <button class="filter-btn" data-tag="Python">Python</button>
+</div>
+
+<div id="projects-grid">
+
+<div class="project-card" data-tags="EHR Python Machine Learning">
+  <h3>EHR benchmark pipeline — MIMIC-IV-ED</h3>
+  <div class="project-meta">Python · 2026</div>
+  <p>Reproduced a published clinical ML benchmark on 448,972 emergency department visits, implementing logistic regression, random forest, gradient boosting, and MLP models.</p>
+  <span class="tag-pill">EHR</span>
+  <span class="tag-pill">Python</span>
+  <span class="tag-pill">Machine Learning</span>
+</div>
+
+<div class="project-card" data-tags="Machine Learning Longitudinal R">
+  <h3>Predicting mild cognitive impairment — Wisconsin Longitudinal Study</h3>
+  <div class="project-meta">R · 2026</div>
+  <p>Random forests, SVMs, and feedforward neural networks on a longitudinal cohort (n=1,449) to predict MCI. Full LOOCV and OOB validation with class imbalance handling.</p>
+  <span class="tag-pill">Machine Learning</span>
+  <span class="tag-pill">Longitudinal</span>
+  <span class="tag-pill">R</span>
+</div>
+
+<div class="project-card" data-tags="Longitudinal R Machine Learning">
+  <h3>Longitudinal modeling of asylum case outcomes</h3>
+  <div class="project-meta">R · 2024–25</div>
+  <p>Built a ~1.5M-record dataset by linking FOIA, USCIS, Census, and IRS sources. Hierarchical logistic regression and 500-tree random forest to model grant outcomes.</p>
+  <span class="tag-pill">Longitudinal</span>
+  <span class="tag-pill">R</span>
+  <span class="tag-pill">Machine Learning</span>
+</div>
+
+<div class="project-card" data-tags="Causal Inference Longitudinal R">
+  <h3>Causal inference on immigration attitudes in Latin America</h3>
+  <div class="project-meta">R · 2024</div>
+  <p>Difference-in-differences design on 18-country survey data (2018–2023) to estimate how Colombia's 2022 presidential transition affected xenophobic attitudes.</p>
+  <span class="tag-pill">Causal Inference</span>
+  <span class="tag-pill">Longitudinal</span>
+  <span class="tag-pill">R</span>
+</div>
+
+</div>
+
+<script>
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+    const tag = this.dataset.tag;
+    document.querySelectorAll('.project-card').forEach(card => {
+      if (tag === 'all' || card.dataset.tags.includes(tag)) {
+        card.style.display = 'block';
+      } else {

@@ -1,0 +1,91 @@
+---
+title: ""
+format: html
+---
+
+<div class="home-container">
+
+<div class="left-column">
+
+<img src="images/profile.jpg" class="profile-pic">
+
+<div class="profile-info">
+
+### James N. Hernandez
+
+M.S. Data Science  
+University of Minnesota
+
+</div>
+
+<div class="connect-section">
+
+<div class="email-text" id="email-copy">
+hern0473@umn.edu
+</div>
+
+<div class="social-buttons">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hern0473@umn.edu"
+   class="contact-btn"
+   target="_blank" rel="noopener noreferrer">
+  <i class="bi bi-envelope"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/jameshernandez2003/"
+   class="contact-btn"
+   target="_blank" rel="noopener noreferrer">
+  <i class="bi bi-linkedin"></i>
+</a>
+
+<a href="https://github.com/jamnandez"
+   class="contact-btn"
+   target="_blank" rel="noopener noreferrer">
+  <i class="bi bi-github"></i>
+</a>
+
+</div>
+
+</div>
+
+<div class="copy-toast" id="copy-toast">Copied!</div>
+
+
+</div>
+<div class="divider"></div>
+
+<div class="right-column">
+
+## Biography
+
+I am a Master's student in Data Science at the University of Minnesota with a minor in biostatistics.
+
+## Skills
+
+**Programming:** R, Python, SQL, Java
+
+**Statistics:** Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods
+
+**Machine Learning:** Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning
+
+**Packages:** tidyverse, ggplot2, lme4, Quarto, scikit-learn, PyTorch, pandas
+
+**Tools:** Quarto, Git, LaTeX, Shiny, QGIS, MIMIC-IV
+
+## Research Interests
+
+- Biostatistics & Epidemiological Methods
+- Infectious Disease Modeling
+- Clinical Machine Learning
+- Causal Inference
+- Public Health Analytics
+- Health Equity & Social Determinants
+- Sustainability & Development
+- Social Science
+
+
+</div>
+
+
+
+</div>

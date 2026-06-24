@@ -1,0 +1,36 @@
+---
+title: "CV"
+---
+
+<div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 2rem; margin-bottom: 2rem;">
+  <div class="section-label" style="margin-bottom: 0;">James Hernandez</div>
+  <a class="hero-link" href="cv.pdf" download>Download PDF</a>
+</div>
+
+---
+
+<div class="section-label">Education</div>
+
+<div class="cv-section">
+  <div class="cv-item">
+    <strong>M.S. Data Science, Biostatistics Minor</strong> — University of Minnesota <span style="float:right; color:#9A9890; font-size:0.85rem;">Expected May 2027</span><br>
+    <span style="font-size:0.85rem; color:#5C5A52;">Coursework: Probability, Statistical Theory, Statistical Modeling, Causal Inference, Advanced Machine Learning, Data Mining</span>
+  </div>
+  <div class="cv-item">
+    <strong>B.A. Data Science & Sociology</strong> — Macalester College <span style="float:right; color:#9A9890; font-size:0.85rem;">May 2025</span><br>
+    <span style="font-size:0.85rem; color:#5C5A52;">Honors</span>
+  </div>
+</div>
+
+<div class="section-label">Experience</div>
+
+<div class="cv-section">
+  <div class="cv-item">
+    <strong>Graduate Research Assistant</strong> — UMN Medical Education Outcomes Center <span style="float:right; color:#9A9890; font-size:0.85rem;">Spring 2026 — Present</span><br>
+    <span style="font-size:0.85rem; color:#5C5A52;">Built R pipeline for two physician survey datasets (n≈16,500); chi-square analyses; manuscript preparation for Journal of Rural Health; IRB and HIPAA compliance.</span>
+  </div>
+  <div class="cv-item">
+    <strong>Data Analyst Intern</strong> — Institute for Agriculture and Trade Policy <span style="float:right; color:#9A9890; font-size:0.85rem;">Fall 2025</span><br>
+    <span style="font-size:0.85rem; color:#5C5A52;">Cleaned and merged multi-format datasets in Python and QGIS; built R Shiny dashboard; outlined ML framework for methane emission estimation.</span>
+  </div>
+  <div

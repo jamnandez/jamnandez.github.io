@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "James N. Hernandez",
+    "section": "",
+    "text": "M.S. Data Science\nUniversity of Minnesota\n\n\n\nhern0473@umn.edu\n\n\n  \n  \n  \n\n\n\nCopied!\n\n\n\n\n\n\n\n\nI am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics.\n\n\n\nProgramming: R, Python, SQL, Java\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: tidyverse, ggplot2, lme4, Quarto, scikit-learn, PyTorch, pandas\nTools: Quarto, Git, LaTeX, Shiny, QGIS, MIMIC-IV\n\n\n\n\nBiostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "James N. Hernandez",
+    "section": "",
+    "text": "I am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "James N. Hernandez",
+    "section": "",
+    "text": "Programming: R, Python, SQL, Java\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: tidyverse, ggplot2, lme4, Quarto, scikit-learn, PyTorch, pandas\nTools: Quarto, Git, LaTeX, Shiny, QGIS, MIMIC-IV"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "James N. Hernandez",
+    "section": "",
+    "text": "Biostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "James N. Hernandez",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Minnesota\nM.S. Data Science\n2025 – Present\n\n\n\nMacalester College\nB.A. Data Science & Sociology\nGPA: 3.57\nMay 2025"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nGraduate Research Assistant — University of Minnesota\nMedical Education Outcomes Center\n2026 – Present\n\nApplied statistical models to education datasets\n\nBuilt reproducible analysis pipelines in R/Python\n\n\n\n\nData Analyst Intern — Institute for Agriculture and Trade Policy\n2025\n\nCleaned and analyzed policy datasets\n\nBuilt reproducible reports and visualizations\n\n\n\n\nData Science Intern — Securian Financial\n2024\n\nBuilt Shiny dashboards for internal reporting\n\nAutomated data workflows in R\n\n\n\n\nLaw Clerk — Southern MN Regional Legal Services\n2025\n\nAssisted with legal case documentation and research"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nProgramming: R, Python, SQL, Java, LaTeX\nStatistics: Bayesian Modeling, Linear Models, Causal Inference\nMachine Learning: Classification, Regression, Ensemble Methods\nTools: Quarto, Git, Shiny, tidyverse, pandas"
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "CV",
+    "section": "Projects",
+    "text": "Projects\n\nAsylum Adjudication Modeling (Honors Thesis)\nLogistic regression + hierarchical models on EOIR FOIA data\nDiD Analysis (Colombia Policy Shift)\nCausal inference using Latinobarometro survey data"
+  },
+  {
+    "objectID": "cv.html#certifications-other",
+    "href": "cv.html#certifications-other",
+    "title": "CV",
+    "section": "Certifications / Other",
+    "text": "Certifications / Other\n(Add later if needed)"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "James N. Hernandez",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "James N. Hernandez",
+    "section": "CV",
+    "text": "CV\n  Download CV"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "experience",
+    "section": "",
+    "text": "Coming soon!"
+  }
+]

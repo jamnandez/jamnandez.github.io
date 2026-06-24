@@ -1,0 +1,16 @@
+---
+title: ""
+---
+
+## Curriculum Vitae
+
+<div class="cv-page">
+
+<a href="cv.pdf" target="_blank" class="cv-download">
+  <i class="bi bi-file-earmark-pdf"></i>
+  Download CV
+</a>
+
+<iframe class="cv-frame" src="cv.pdf"></iframe>
+
+</div>
