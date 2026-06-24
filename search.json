@@ -28,11 +28,18 @@
     "text": "Coming soon!"
   },
   {
+    "objectID": "README 2.html",
+    "href": "README 2.html",
+    "title": "jamnandez.github.io",
+    "section": "",
+    "text": "jamnandez.github.io"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "James N. Hernandez",
     "section": "",
-    "text": "M.S. Data Science\nUniversity of Minnesota\n\n\n\nhern0473@umn.edu\n\n\n  \n  \n  \n\n\n\nCopied!\n\n\n\n\n\n\n\n\nI am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics.\n\n\n\nProgramming: R, Python, SQL, Java\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: tidyverse, ggplot2, lme4, Quarto, scikit-learn, PyTorch, pandas\nTools: Quarto, Git, LaTeX, Shiny, QGIS, MIMIC-IV\n\n\n\n\nBiostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
+    "text": "M.S. Data Science\nUniversity of Minnesota\n\n\n\nhern0473@umn.edu\n\n\n  \n  \n  \n\n\n\nCopied!\n\n\n\n\n\n\n\n\nI am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics.\n\n\n\nProgramming: R, Python, SQL, Java, GIS\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: glmnet, randomForest, gbm, e1071, caret, nnet, pls, MASS, keras, TensorFlow, PyTorch\nTools: Quarto, Git, LaTeX, Shiny, Jupyter, QGIS, VS Code\n\n\n\n\nBiostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
   },
   {
     "objectID": "index.html#biography",
@@ -46,7 +53,7 @@
     "href": "index.html#skills",
     "title": "James N. Hernandez",
     "section": "",
-    "text": "Programming: R, Python, SQL, Java\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: tidyverse, ggplot2, lme4, Quarto, scikit-learn, PyTorch, pandas\nTools: Quarto, Git, LaTeX, Shiny, QGIS, MIMIC-IV"
+    "text": "Programming: R, Python, SQL, Java, GIS\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: glmnet, randomForest, gbm, e1071, caret, nnet, pls, MASS, keras, TensorFlow, PyTorch\nTools: Quarto, Git, LaTeX, Shiny, Jupyter, QGIS, VS Code"
   },
   {
     "objectID": "index.html#research-interests",
