@@ -14,25 +14,11 @@
     "text": "Download CV"
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "experience",
+    "objectID": "mci_pred.html",
+    "href": "mci_pred.html",
+    "title": "Mild Cognitive Impairment Prediction",
     "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "README 2.html",
-    "href": "README 2.html",
-    "title": "jamnandez.github.io",
-    "section": "",
-    "text": "jamnandez.github.io"
+    "text": "Mild Cognitive Impairment Prediction\n\n\nR Machine Learning Healthcare Classification\n\n\n\n\nAuthor\n\n\nJames N. Hernandez\n\n\n\n\nPublished\n\n\n2026\n\n\n\n\n\n\n\n\n\nThis project was completed as part of my graduate coursework in Data Science at the University of Minnesota.\nThe goal was to develop predictive models for identifying Mild Cognitive Impairment (MCI) using demographic, clinical, and cognitive assessment variables. Multiple machine learning approaches were compared and evaluated using cross-validation and held-out testing data to assess predictive performance and interpretability."
   },
   {
     "objectID": "index.html",
@@ -61,5 +47,54 @@
     "title": "James N. Hernandez",
     "section": "",
     "text": "Biostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
+  },
+  {
+    "objectID": "StatCap.html",
+    "href": "StatCap.html",
+    "title": "StatCap",
+    "section": "",
+    "text": "Under Construction"
+  },
+  {
+    "objectID": "GeoDes.html",
+    "href": "GeoDes.html",
+    "title": "Geographies of Deservingness",
+    "section": "",
+    "text": "Geographies of Deservingness\n\n\nR Research Causal Inference Sociology\n\n\n\n\nAuthor\n\n\nJames N. Hernandez\n\n\n\n\nPublished\n\n\nMay 2025\n\n\n\n\n\n\nWebsite\n\n\n\nGithub\n\n\n\n\n\n\n\n\nThis project began as my undergraduate honors thesis in Sociology at Macalester College. I was interested in understanding how place influences asylum outcomes and whether broader political and socioeconomic conditions shape who is granted protection in the United States.\nUsing a cleaned dataset of approximately 36,000 asylum cases from 2020–2024, I evaluated multiple machine learning and statistical modeling approaches, including logistic regression, random forests, gradient boosting, support vector machines, and hierarchical logistic regression. The project examined how state-level characteristics—including political context, economic indicators, and nonprofit infrastructure—were associated with asylum approval decisions. Results suggested that wealthier states and states with stronger Democratic political representation were associated with higher approval probabilities, while nonprofit density emerged as an important predictor of favorable outcomes."
+  },
+  {
+    "objectID": "README 2.html",
+    "href": "README 2.html",
+    "title": "jamnandez.github.io",
+    "section": "",
+    "text": "jamnandez.github.io"
+  },
+  {
+    "objectID": "pokemon.html",
+    "href": "pokemon.html",
+    "title": "pokemon",
+    "section": "",
+    "text": "** UNDER CONSTRUCTION **\nPokemon Card Game is a multi-level memory card game developed in Java with kilt-graphics API to enhance concentration and critical thinking skills in 5-8 youth. The game has 3 levels of difficulty: easy (5 pairs, 10 attempts), medium (10 pairs, 20 attempts), and difficult (15 pairs, 30 attempts). The game begins with all cards flipped upside down. Upon clicking one of the cards, it flips face-side-up to reveal the pokemon it pertains to. The goal of the each round is to find the matching card, with 15 total pairs, for the card flipped. Upon the second card being clicked, if it is not a correct match, the cards will flip back over to hide the pokemon. However, if they match, the two cards will be removed from the screen. The goal of the game is to remove all pairs before the given time and under the limited number of attempts."
+  },
+  {
+    "objectID": "chefbot.html",
+    "href": "chefbot.html",
+    "title": "chefbot",
+    "section": "",
+    "text": "under construction"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Under Construction: I’m currently building out detailed pages for each project as a summer side project. Please check back soon!\nA selection of research, data science, and statistical projects completed through coursework, research, and professional experiences.\n\n Default \n\n\n\n\n2026 James Hernandez\n\n\n\n Predicting COVID Status from Multi-Omics Data \n\nR Machine Learning Biostatistics\n\nEvaluation and finetuning of various predictive models using, proteomic, metabolomic, and genomic clinical datasets to predict biomarkers of COVID-19, as part of PuBH 7445 - Statistical Learning & Data Mining.\nIncludes supervised, unsupervised, and neural network techniques.\n\n\n\n\n\n\n\n\n2025 James Hernandez\n\n\n\n Geographies of Deservingness \n\nR Social Sciences Research Machine Learning\n\nHonors thesis examining asylum adjudication outcomes across U.S. states.\n\n\n\n\n\n\n\n\n2026 Fabio Bolz, James Hernandez, Teresa Pham\n\n\n\n Mild Cognitive Impairment Prediction \n\nR Machine Learning Healthcare\n\nComparative evaluation of random forest, SVM, LASSO, bagging, and neural network classifiers on the Wisconsin Longitudinal Study to identify early MCI. Addressed class imbalance via inverse-frequency weighting with clinical utility framing.\n\n\n\n\n\n\n\n\n2024 Nibia Becerra Santillan, James Hernandez\n\n\n\n De-Venezuelization and Public Opinion in Colombia \n\nR Causal Inference Social Sciences\n\nDifference-in-Differences analysis examining how President Petro’s “de-Venezuelization” approach shifted Colombian public attitudes toward Venezuelan migrants, using Latinobarómetro survey data from 2018–2023 and socioeconomic indicators from UN ECLAC.\n\n\n\n\n\n\n\n\n2023 James Hernandez, Linh Nguyen, Na Nguyen\n\n\n\n Pokemon Card Game \n\nJava Computer Science\n\nA multi-level memory card game to enhance concentration and critical thinking skills in 5-8 youth\n\n\n\n\n\n\n\n\n2024 James Hernandez, Maria Sanchez-Linares, Tu Tran\n\n\n\n Chefbot: Recipe Recommender System \n\nJava Computer Science\n\nCreated a conversational recommender system that combines natural language interaction with machine learning-based recommendation techniques to provide personalized recipe suggestions from user-specified ingredients and preferences.\n\n\n\n\n\n\n\n\nCategories\nAll Machine Learning Biostatistics Causal Inference Public Health Social Sciences Java Computer Science Research"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "experience",
+    "section": "",
+    "text": "Coming soon!"
   }
 ]
