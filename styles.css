@@ -463,3 +463,57 @@ body {
   line-height: 1.8;
   margin-bottom: 1.5rem;
 }
+
+
+
+/* ==========================
+   PERSONAL PAGE
+========================== */
+.personal-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.gallery-item {
+  cursor: pointer;
+}
+
+.gallery-item summary {
+  list-style: none;
+}
+
+.gallery-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+
+  transition: transform 0.2s ease;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.02);
+}
+
+.gallery-caption {
+  margin-top: 0.75rem;
+  padding: 0.5rem;
+}
+
+.gallery-caption h3,
+.gallery-caption h4 {
+  color: var(--accent-color);
+  margin-bottom: 0.5rem;
+}
+
+.gallery-caption p {
+  line-height: 1.7;
+}
