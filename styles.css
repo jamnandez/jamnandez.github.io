@@ -568,3 +568,13 @@ nav#TOC ul > li > a.active {
 #quarto-margin-sidebar {
   display: none !important;
 }
+
+
+
+
+
+
+.category-link.active{
+    font-weight:600;
+    color:var(--border-color);
+}

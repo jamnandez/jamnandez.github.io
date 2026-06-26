@@ -14,39 +14,67 @@
     "text": "Download CV"
   },
   {
-    "objectID": "mci_pred.html",
-    "href": "mci_pred.html",
-    "title": "Mild Cognitive Impairment Prediction",
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal",
     "section": "",
-    "text": "Mild Cognitive Impairment Prediction\n\n\nR Machine Learning Healthcare Classification\n\n\n\n\nAuthor\n\n\nJames N. Hernandez\n\n\n\n\nPublished\n\n\n2026\n\n\n\n\n\n\n\n\n\nThis project was completed as part of my graduate coursework in Data Science at the University of Minnesota.\nThe goal was to develop predictive models for identifying Mild Cognitive Impairment (MCI) using demographic, clinical, and cognitive assessment variables. Multiple machine learning approaches were compared and evaluated using cross-validation and held-out testing data to assess predictive performance and interpretability."
+    "text": "While much of this website focuses on my academic and professional work, I also enjoy activities that keep me active and curious!\nMy interests often revolve around exploration and personal growth—whether that means working through a difficult bouldering route, exploring a new city by bicycle, experimenting in the kitchen, or getting immersed in a well-designed game world.\n\n\n\n\n\nMy first time bouldering was from pure boredom on a random day in study abroad, and I had no idea what climbing really was. Now, it is my favorite hobby, and I the combination of physical strength, technique, and problem-solving that climbing builds. It’s also a great sport for socializing!\n\n\n\nI really enjoy immersing myself in role-playing and strategy video games, particularly those with strong world-building and player choice. The Elder Scrolls series has long been a favorite, starting with Skyrim as a kid!\n\n\n\nGrowing up in a family where food was a love language, I’ve always enjoyed cooking and see it as a way to care for both the body and the spirit.\nMy favorite thing to bake is rosquillas, a traditional Nicaraguan cookie made from corn, cheese, and panela.\n\n\n\nI read a mix of nonfiction and fiction, viewing both as ways to understand our world.\nMy nonfiction reading tends to focus on society and public issues. I’m currently reading Pathogenesis, which explores how microbiology has shaped human history and social change.\nI also enjoy fiction, especially authors like Gabriel García Márquez, George Orwell, and Suzanne Collins, whose work explores politics, history, and human behavior through literary narrative.\n\n\n\n\n\n\n\n\n\n\n\n\nI was born and raised in Louisville, Kentucky, best known for its bourbon, the Kentucky Derby, and fried chicken! While I currently call Minneapolis home, Louisville will always be a key part of my identity.\n\n\n\n\n\n\n\n\nThough I moved to Minnesota in 2021 for school, I quickly fell in love with the Twin Cities, and am proud to now call myself a Minnesotan (though I have yet to try Hotdish).\n\n\n\n\n\n\n\n\nStatues of “Las Gordas” can be found in Estelí, a mountainous northern department of Nicaragua, where my family is from. They celebrate abundance, fertility, and the strength of rural women.\n\n\n\n\n\n\n\n\nI spent one semester studying at Universidad Carlos III Madrid, and fell in love with one of the most beautiful cities while exploring a very different academic and cultural environment.\n\n\n\n\n\n\n\n\nOn one of my trips back home, I was able to climb at the Red River Gorge, one of the most famous climbing destinations. As per tradition, I ate Miguel’s Pizza while drinking Ale-8 Soda - two Kentucky classics.\n\n\n\n\n\n\n\n\nHiking to La Chorrera, Colombia’s tallest waterfall, reminded me how much I enjoy spending time outdoors. Whether close to home or abroad, I always enjoy spending time explore nature.\n\n\n\n\n\n\n\n\nExploring the coastline around Naples and Mount Vesuvius was incredible, but visiting Pompeii was especially unbelievable. I’ve always been fascinated by history, and seeing an ancient city preserved for nearly two thousand years was an incredible experience.\n\n\n\n\n\n\n\n\nThe most effective way to test the quality and freshness of apples at an orchard."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "James N. Hernandez",
+    "objectID": "personal.html#hobbies-interests",
+    "href": "personal.html#hobbies-interests",
+    "title": "Personal",
     "section": "",
-    "text": "M.S. Data Science\nUniversity of Minnesota\n\n\n\nhern0473@umn.edu\n\n\n  \n  \n  \n\n\n\nCopied!\n\n\n\n\n\n\n\n\nI am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics.\n\n\n\nProgramming: R, Python, SQL, Java, GIS\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: glmnet, randomForest, gbm, e1071, caret, nnet, pls, MASS, keras, TensorFlow, PyTorch\nTools: Quarto, Git, LaTeX, Shiny, Jupyter, QGIS, VS Code\n\n\n\n\nBiostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
+    "text": "My first time bouldering was from pure boredom on a random day in study abroad, and I had no idea what climbing really was. Now, it is my favorite hobby, and I the combination of physical strength, technique, and problem-solving that climbing builds. It’s also a great sport for socializing!\n\n\n\nI really enjoy immersing myself in role-playing and strategy video games, particularly those with strong world-building and player choice. The Elder Scrolls series has long been a favorite, starting with Skyrim as a kid!\n\n\n\nGrowing up in a family where food was a love language, I’ve always enjoyed cooking and see it as a way to care for both the body and the spirit.\nMy favorite thing to bake is rosquillas, a traditional Nicaraguan cookie made from corn, cheese, and panela.\n\n\n\nI read a mix of nonfiction and fiction, viewing both as ways to understand our world.\nMy nonfiction reading tends to focus on society and public issues. I’m currently reading Pathogenesis, which explores how microbiology has shaped human history and social change.\nI also enjoy fiction, especially authors like Gabriel García Márquez, George Orwell, and Suzanne Collins, whose work explores politics, history, and human behavior through literary narrative."
   },
   {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "James N. Hernandez",
+    "objectID": "personal.html#places-memories",
+    "href": "personal.html#places-memories",
+    "title": "Personal",
     "section": "",
-    "text": "I am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics."
+    "text": "I was born and raised in Louisville, Kentucky, best known for its bourbon, the Kentucky Derby, and fried chicken! While I currently call Minneapolis home, Louisville will always be a key part of my identity.\n\n\n\n\n\n\n\n\nThough I moved to Minnesota in 2021 for school, I quickly fell in love with the Twin Cities, and am proud to now call myself a Minnesotan (though I have yet to try Hotdish).\n\n\n\n\n\n\n\n\nStatues of “Las Gordas” can be found in Estelí, a mountainous northern department of Nicaragua, where my family is from. They celebrate abundance, fertility, and the strength of rural women.\n\n\n\n\n\n\n\n\nI spent one semester studying at Universidad Carlos III Madrid, and fell in love with one of the most beautiful cities while exploring a very different academic and cultural environment.\n\n\n\n\n\n\n\n\nOn one of my trips back home, I was able to climb at the Red River Gorge, one of the most famous climbing destinations. As per tradition, I ate Miguel’s Pizza while drinking Ale-8 Soda - two Kentucky classics.\n\n\n\n\n\n\n\n\nHiking to La Chorrera, Colombia’s tallest waterfall, reminded me how much I enjoy spending time outdoors. Whether close to home or abroad, I always enjoy spending time explore nature.\n\n\n\n\n\n\n\n\nExploring the coastline around Naples and Mount Vesuvius was incredible, but visiting Pompeii was especially unbelievable. I’ve always been fascinated by history, and seeing an ancient city preserved for nearly two thousand years was an incredible experience.\n\n\n\n\n\n\n\n\nThe most effective way to test the quality and freshness of apples at an orchard."
   },
   {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "James N. Hernandez",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "experience",
     "section": "",
-    "text": "Programming: R, Python, SQL, Java, GIS\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: glmnet, randomForest, gbm, e1071, caret, nnet, pls, MASS, keras, TensorFlow, PyTorch\nTools: Quarto, Git, LaTeX, Shiny, Jupyter, QGIS, VS Code"
+    "text": "Coming soon!"
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "James N. Hernandez",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Biostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
+    "text": "Under Construction: I’m currently building out detailed pages for each project as a summer side project. Please check back soon!\nA selection of research, data science, and statistical projects completed through coursework, research, and professional experiences.\n\n Newest Oldest \n\n\n\n\n2026 James Hernandez\n\n\n\n Predicting COVID Status from Multi-Omics Data \n\nR Machine Learning Health\n\nEvaluation and finetuning of various predictive models using, proteomic, metabolomic, and genomic clinical datasets to predict biomarkers of COVID-19.\nIncludes supervised, unsupervised, and neural network techniques.\n\n\n\n\n\n\n\n\n2025 James Hernandez\n\n\n\n Geographies of Deservingness \n\nR Social Sciences Machine Learning\n\nHonors thesis examining asylum adjudication outcomes across U.S. states.\n\n\n\n\n\n\n\n\n2026 Fabio Bolz, James Hernandez, Teresa Pham\n\n\n\n Mild Cognitive Impairment Prediction \n\nR Machine Learning Health\n\nComparative evaluation of random forest, SVM, LASSO, bagging, and neural network classifiers on the Wisconsin Longitudinal Study to identify early MCI. Addressed class imbalance via inverse-frequency weighting with clinical utility framing.\n\n\n\n\n\n\n\n\n2024 Nibia Becerra Santillan, James Hernandez\n\n\n\n De-Venezuelization and Public Opinion in Colombia \n\nR Causal Inference Social Sciences\n\nDifference-in-Differences analysis examining how President Petro’s “de-Venezuelization” approach shifted Colombian public attitudes toward Venezuelan migrants, using Latinobarómetro survey data from 2018–2023 and socioeconomic indicators from UN ECLAC.\n\n\n\n\n\n\n\n\n2023 James Hernandez, Linh Nguyen, Na Nguyen\n\n\n\n Pokemon Card Game \n\nPython\n\nA multi-level memory card game to enhance concentration and critical thinking skills in 5-8 youth\n\n\n\n\n\n\n\n\n2024 James Hernandez\n\n\n\n Factory Farm Methane & Satellite Mapping \n\nSustainability GIS Python\n\nCreated a conversational recommender system that combines natural language interaction with machine learning-based recommendation techniques to provide personalized recipe suggestions from user-specified ingredients and preferences.\n\n\n\n\n\n\n\n\nCategories\nAll\nMachine Learning\nHealth\nCausal Inference\nSustainability\nSocial Sciences\nJava\nPython\nR\nGIS"
+  },
+  {
+    "objectID": "chefbot.html",
+    "href": "chefbot.html",
+    "title": "chefbot",
+    "section": "",
+    "text": "under construction"
+  },
+  {
+    "objectID": "pokemon.html",
+    "href": "pokemon.html",
+    "title": "pokemon",
+    "section": "",
+    "text": "** UNDER CONSTRUCTION **\nPokemon Card Game is a multi-level memory card game developed in Java with kilt-graphics API to enhance concentration and critical thinking skills in 5-8 youth. The game has 3 levels of difficulty: easy (5 pairs, 10 attempts), medium (10 pairs, 20 attempts), and difficult (15 pairs, 30 attempts). The game begins with all cards flipped upside down. Upon clicking one of the cards, it flips face-side-up to reveal the pokemon it pertains to. The goal of the each round is to find the matching card, with 15 total pairs, for the card flipped. Upon the second card being clicked, if it is not a correct match, the cards will flip back over to hide the pokemon. However, if they match, the two cards will be removed from the screen. The goal of the game is to remove all pairs before the given time and under the limited number of attempts."
+  },
+  {
+    "objectID": "README 2.html",
+    "href": "README 2.html",
+    "title": "jamnandez.github.io",
+    "section": "",
+    "text": "jamnandez.github.io"
+  },
+  {
+    "objectID": "GeoDes.html",
+    "href": "GeoDes.html",
+    "title": "Geographies of Deservingness",
+    "section": "",
+    "text": "Geographies of Deservingness\n\n\nR Research Causal Inference Sociology\n\n\n\n\nAuthor\n\n\nJames N. Hernandez\n\n\n\n\nPublished\n\n\nMay 2025\n\n\n\n\n\n\nWebsite\n\n\n\nGithub\n\n\n\n\n\n\n\n\nThis project began as my undergraduate honors thesis in Sociology at Macalester College. I was interested in understanding how place influences asylum outcomes and whether broader political and socioeconomic conditions shape who is granted protection in the United States.\nUsing a cleaned dataset of approximately 36,000 asylum cases from 2020–2024, I evaluated multiple machine learning and statistical modeling approaches, including logistic regression, random forests, gradient boosting, support vector machines, and hierarchical logistic regression. The project examined how state-level characteristics—including political context, economic indicators, and nonprofit infrastructure—were associated with asylum approval decisions. Results suggested that wealthier states and states with stronger Democratic political representation were associated with higher approval probabilities, while nonprofit density emerged as an important predictor of favorable outcomes."
   },
   {
     "objectID": "StatCap.html#overview-executive-summary",
@@ -140,66 +168,101 @@
     "text": "Appendix: Model Diagnostics\n\nMulticollinearity (VIF)\nVariance Inflation Factors were computed for M4. Year-interacted macroeconomic terms produce elevated VIFs (expected with interaction terms), but the core treated, post, and did terms all have VIF &lt; 2.5, confirming the DiD structure itself is not multicollinear.\n\n\nShow code\n# library(car)\n# \n# vif(model_4) %&gt;%\n#   as.data.frame() %&gt;%\n#   rownames_to_column(\"Predictor\") %&gt;%\n#   rename(VIF = \".\") %&gt;%\n#   arrange(desc(VIF)) %&gt;%\n#   mutate(Flag = if_else(VIF &gt; 10, \"Review\", \"OK\")) %&gt;%\n#   gt() %&gt;%\n#   fmt_number(columns = VIF, decimals = 2) %&gt;%\n#   tab_style(\n#     style     = cell_fill(color = \"#FEF3C7\"),\n#     locations = cells_body(rows = Flag == \"Review\")\n#   ) %&gt;%\n#   opt_stylize(style = 1)\n\n\n\n\nMissing Outcome Data by Wave\nThe 2023 wave shows elevated missingness on opinion_immigrants relative to earlier waves. This may reflect question wording changes or non-response bias. If missingness is correlated with true sentiment, estimates could be biased toward zero.\n\n\nShow code\n# All_LB %&gt;%\n#   group_by(survey_year) %&gt;%\n#   summarise(\n#     n_total   = n(),\n#     n_missing = sum(is.na(opinion_immigrants_binary)),\n#     pct_miss  = n_missing / n_total\n#   ) %&gt;%\n#   ggplot(aes(x = factor(survey_year), y = pct_miss)) +\n#   geom_col(fill = \"#F97316\", width = 0.5) +\n#   geom_text(aes(label = percent(pct_miss, accuracy = 0.1)),\n#             vjust = -0.4, fontface = \"bold\") +\n#   scale_y_continuous(labels = percent_format(), limits = c(0, 0.35)) +\n#   labs(x = \"Survey Year\", y = \"% Missing\",\n#        title    = \"Missing Outcome Data by Survey Wave\",\n#        subtitle = \"Elevated 2023 missingness flagged as potential bias source\") +\n#   theme_minimal(base_size = 13)\n\n\n\nAnalysis conducted in R 4.4.1 | Packages: tidyverse, haven, ggplot2, gt, ggdag, dagitty, broom, scales, car | Data: Latinobarometro (2018, 2020, 2023) and UN ECLAC\nCover Image from Refugees International"
   },
   {
-    "objectID": "GeoDes.html",
-    "href": "GeoDes.html",
-    "title": "Geographies of Deservingness",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "James N. Hernandez",
     "section": "",
-    "text": "Geographies of Deservingness\n\n\nR Research Causal Inference Sociology\n\n\n\n\nAuthor\n\n\nJames N. Hernandez\n\n\n\n\nPublished\n\n\nMay 2025\n\n\n\n\n\n\nWebsite\n\n\n\nGithub\n\n\n\n\n\n\n\n\nThis project began as my undergraduate honors thesis in Sociology at Macalester College. I was interested in understanding how place influences asylum outcomes and whether broader political and socioeconomic conditions shape who is granted protection in the United States.\nUsing a cleaned dataset of approximately 36,000 asylum cases from 2020–2024, I evaluated multiple machine learning and statistical modeling approaches, including logistic regression, random forests, gradient boosting, support vector machines, and hierarchical logistic regression. The project examined how state-level characteristics—including political context, economic indicators, and nonprofit infrastructure—were associated with asylum approval decisions. Results suggested that wealthier states and states with stronger Democratic political representation were associated with higher approval probabilities, while nonprofit density emerged as an important predictor of favorable outcomes."
+    "text": "M.S. Data Science\nUniversity of Minnesota\n\n\n\nhern0473@umn.edu\n\n\n  \n  \n  \n\n\n\nCopied!\n\n\n\n\n\n\n\n\nI am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics.\n\n\n\nProgramming: R, Python, SQL, Java, GIS\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: glmnet, randomForest, gbm, e1071, caret, nnet, pls, MASS, keras, TensorFlow, PyTorch\nTools: Quarto, Git, LaTeX, Shiny, Jupyter, QGIS, VS Code\n\n\n\n\nBiostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
   },
   {
-    "objectID": "README 2.html",
-    "href": "README 2.html",
-    "title": "jamnandez.github.io",
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "James N. Hernandez",
     "section": "",
-    "text": "jamnandez.github.io"
+    "text": "I am a Master’s student in Data Science at the University of Minnesota with a minor in biostatistics."
   },
   {
-    "objectID": "pokemon.html",
-    "href": "pokemon.html",
-    "title": "pokemon",
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "James N. Hernandez",
     "section": "",
-    "text": "** UNDER CONSTRUCTION **\nPokemon Card Game is a multi-level memory card game developed in Java with kilt-graphics API to enhance concentration and critical thinking skills in 5-8 youth. The game has 3 levels of difficulty: easy (5 pairs, 10 attempts), medium (10 pairs, 20 attempts), and difficult (15 pairs, 30 attempts). The game begins with all cards flipped upside down. Upon clicking one of the cards, it flips face-side-up to reveal the pokemon it pertains to. The goal of the each round is to find the matching card, with 15 total pairs, for the card flipped. Upon the second card being clicked, if it is not a correct match, the cards will flip back over to hide the pokemon. However, if they match, the two cards will be removed from the screen. The goal of the game is to remove all pairs before the given time and under the limited number of attempts."
+    "text": "Programming: R, Python, SQL, Java, GIS\nStatistics: Regression, Causal Inference, Mixed Models, MLE, Hypothesis Testing, Resampling Methods\nMachine Learning: Classification, Ensemble Methods, Neural Networks, SVM, LASSO & Regularization, Model Evaluation & Tuning\nPackages: glmnet, randomForest, gbm, e1071, caret, nnet, pls, MASS, keras, TensorFlow, PyTorch\nTools: Quarto, Git, LaTeX, Shiny, Jupyter, QGIS, VS Code"
   },
   {
-    "objectID": "chefbot.html",
-    "href": "chefbot.html",
-    "title": "chefbot",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "James N. Hernandez",
     "section": "",
-    "text": "under construction"
+    "text": "Biostatistics & Epidemiological Methods\nInfectious Disease Modeling\nClinical Machine Learning\nCausal Inference\nPublic Health Analytics\nHealth Equity & Social Determinants\nSustainability & Development\nSocial Science"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "mci_pred.html",
+    "href": "mci_pred.html",
+    "title": "Mild Cognitive Impairment Prediction",
     "section": "",
-    "text": "Under Construction: I’m currently building out detailed pages for each project as a summer side project. Please check back soon!\nA selection of research, data science, and statistical projects completed through coursework, research, and professional experiences.\n\n Default \n\n\n\n\n2026 James Hernandez\n\n\n\n Predicting COVID Status from Multi-Omics Data \n\nR Machine Learning Biostatistics\n\nEvaluation and finetuning of various predictive models using, proteomic, metabolomic, and genomic clinical datasets to predict biomarkers of COVID-19.\nIncludes supervised, unsupervised, and neural network techniques.\n\n\n\n\n\n\n\n\n2025 James Hernandez\n\n\n\n Geographies of Deservingness \n\nR Social Sciences Research Machine Learning\n\nHonors thesis examining asylum adjudication outcomes across U.S. states.\n\n\n\n\n\n\n\n\n2026 Fabio Bolz, James Hernandez, Teresa Pham\n\n\n\n Mild Cognitive Impairment Prediction \n\nR Machine Learning Healthcare\n\nComparative evaluation of random forest, SVM, LASSO, bagging, and neural network classifiers on the Wisconsin Longitudinal Study to identify early MCI. Addressed class imbalance via inverse-frequency weighting with clinical utility framing.\n\n\n\n\n\n\n\n\n2024 Nibia Becerra Santillan, James Hernandez\n\n\n\n De-Venezuelization and Public Opinion in Colombia \n\nR Causal Inference Social Sciences\n\nDifference-in-Differences analysis examining how President Petro’s “de-Venezuelization” approach shifted Colombian public attitudes toward Venezuelan migrants, using Latinobarómetro survey data from 2018–2023 and socioeconomic indicators from UN ECLAC.\n\n\n\n\n\n\n\n\n2023 James Hernandez, Linh Nguyen, Na Nguyen\n\n\n\n Pokemon Card Game \n\nJava Computer Science\n\nA multi-level memory card game to enhance concentration and critical thinking skills in 5-8 youth\n\n\n\n\n\n\n\n\n2024 James Hernandez, Maria Sanchez-Linares, Tu Tran\n\n\n\n Chefbot: Recipe Recommender System \n\nJava Computer Science\n\nCreated a conversational recommender system that combines natural language interaction with machine learning-based recommendation techniques to provide personalized recipe suggestions from user-specified ingredients and preferences.\n\n\n\n\n\n\n\n\nCategories\nAll Machine Learning Biostatistics Causal Inference Public Health Social Sciences Java Computer Science Research"
+    "text": "Mild Cognitive Impairment Prediction\n\n\nR Machine Learning Healthcare Classification\n\n\n\n\nAuthor\n\n\nJames N. Hernandez\n\n\n\n\nPublished\n\n\n2026\n\n\n\n\n\n\n\n\n\nThis project was completed as part of my graduate coursework in Data Science at the University of Minnesota.\nThe goal was to develop predictive models for identifying Mild Cognitive Impairment (MCI) using demographic, clinical, and cognitive assessment variables. Multiple machine learning approaches were compared and evaluated using cross-validation and held-out testing data to assess predictive performance and interpretability."
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "experience",
+    "objectID": "cafo.html",
+    "href": "cafo.html",
+    "title": "Flying Under the Radar",
     "section": "",
-    "text": "Coming soon!"
+    "text": "Note\n\n\n\nPublished work: This analysis was conducted for the Institute for Agriculture and Trade Policy (IATP) and published in February 2026. Read the full report: Flying Under the Radar: Gaps in Satellite Detection of Factory Farm Methane Emissions.\nThis was my first exposure to GIS and spatial analysis. I taught myself QGIS, the Carbon Mapper API, and geospatial Python (geopandas, shapely) over the course of the internship while building the pipeline concurrently.\n\n\nMethane is approximately 80 times more potent than carbon dioxide over a 20-year period, and the livestock sector is the single largest contributor to global methane emissions. Despite this, factory farms are not required to report methane emissions, and environmental oversight is alarmingly relaxed. Satellite imaging has emerged as a promising tool for detecting methane plumes from these facilities, though coverage is currently incomplete.\nThis project cross-referenced geographic U.S. Animal Feeding Operation (AFO) data with satellite scene coverage from Carbon Mapper, a nonprofit remote sensing initiative that detects and quantifies methane and CO2 at the facility level. The to identify which operations are currently flying under the radar of satellite detection.\n\nGoal: To identify which operations are currently flying under the radar of satellite methane plume detection.*\n\nThe full analysis, maps, and policy recommendations are available in the IATP publication linked above and at the bottom of this page."
   },
   {
-    "objectID": "personal.html",
-    "href": "personal.html",
-    "title": "Personal",
+    "objectID": "cafo.html#overview",
+    "href": "cafo.html#overview",
+    "title": "Flying Under the Radar",
     "section": "",
-    "text": "While much of this website focuses on my academic and professional work, I also enjoy activities that keep me active and curious!\nMy interests often revolve around exploration and personal growth—whether that means working through a difficult bouldering route, exploring a new city by bicycle, experimenting in the kitchen, or getting immersed in a well-designed game world.\n\n\n\n\n\nMy first time bouldering was from pure boredom on a random day in study abroad, and I had no idea what climbing really was. Now, it is my favorite hobby, and I the combination of physical strength, technique, and problem-solving that climbing builds. It’s also a great sport for socializing!\n\n\n\nI really enjoy immersing myself in role-playing and strategy video games, particularly those with strong world-building and player choice. The Elder Scrolls series has long been a favorite, starting with Skyrim as a kid!\n\n\n\nGrowing up in a family where food was a love language, I’ve always enjoyed cooking and see it as a way to care for both the body and the spirit.\nMy favorite thing to bake is rosquillas, a traditional Nicaraguan cookie made from corn, cheese, and panela.\n\n\n\nI read a mix of nonfiction and fiction, viewing both as ways to understand our world.\nMy nonfiction reading tends to focus on society and public issues. I’m currently reading Pathogenesis, which explores how microbiology has shaped human history and social change.\nI also enjoy fiction, especially authors like Gabriel García Márquez, George Orwell, and Suzanne Collins, whose work explores politics, history, and human behavior through literary narrative.\n\n\n\n\n\n\n\n\n\n\n\n\nI was born and raised in Louisville, Kentucky, best known for its bourbon, the Kentucky Derby, and fried chicken! While I currently call Minneapolis home, Louisville will always be a key part of my identity.\n\n\n\n\n\n\n\n\nThough I moved to Minnesota in 2021 for school, I quickly fell in love with the Twin Cities, and am proud to now call myself a Minnesotan (though I have yet to try Hotdish).\n\n\n\n\n\n\n\n\nStatues of “Las Gordas” can be found in Estelí, a mountainous northern department of Nicaragua, where my family is from. They celebrate abundance, fertility, and the strength of rural women.\n\n\n\n\n\n\n\n\nI spent one semester studying at Universidad Carlos III Madrid, and fell in love with one of the most beautiful cities while exploring a very different academic and cultural environment.\n\n\n\n\n\n\n\n\nOn one of my trips back home, I was able to climb at the Red River Gorge, one of the most famous climbing destinations. As per tradition, I ate Miguel’s Pizza while drinking Ale-8 Soda - two Kentucky classics.\n\n\n\n\n\n\n\n\nHiking to La Chorrera, Colombia’s tallest waterfall, reminded me how much I enjoy spending time outdoors. Whether close to home or abroad, I always enjoy spending time explore nature.\n\n\n\n\n\n\n\n\nExploring the coastline around Naples and Mount Vesuvius was incredible, but visiting Pompeii was especially unbelievable. I’ve always been fascinated by history, and seeing an ancient city preserved for nearly two thousand years was an incredible experience.\n\n\n\n\n\n\n\n\nThe most effective way to test the quality and freshness of apples at an orchard."
+    "text": "Note\n\n\n\nPublished work: This analysis was conducted for the Institute for Agriculture and Trade Policy (IATP) and published in February 2026. Read the full report: Flying Under the Radar: Gaps in Satellite Detection of Factory Farm Methane Emissions.\nThis was my first exposure to GIS and spatial analysis. I taught myself QGIS, the Carbon Mapper API, and geospatial Python (geopandas, shapely) over the course of the internship while building the pipeline concurrently.\n\n\nMethane is approximately 80 times more potent than carbon dioxide over a 20-year period, and the livestock sector is the single largest contributor to global methane emissions. Despite this, factory farms are not required to report methane emissions, and environmental oversight is alarmingly relaxed. Satellite imaging has emerged as a promising tool for detecting methane plumes from these facilities, though coverage is currently incomplete.\nThis project cross-referenced geographic U.S. Animal Feeding Operation (AFO) data with satellite scene coverage from Carbon Mapper, a nonprofit remote sensing initiative that detects and quantifies methane and CO2 at the facility level. The to identify which operations are currently flying under the radar of satellite detection.\n\nGoal: To identify which operations are currently flying under the radar of satellite methane plume detection.*\n\nThe full analysis, maps, and policy recommendations are available in the IATP publication linked above and at the bottom of this page."
   },
   {
-    "objectID": "personal.html#hobbies-interests",
-    "href": "personal.html#hobbies-interests",
-    "title": "Personal",
-    "section": "",
-    "text": "My first time bouldering was from pure boredom on a random day in study abroad, and I had no idea what climbing really was. Now, it is my favorite hobby, and I the combination of physical strength, technique, and problem-solving that climbing builds. It’s also a great sport for socializing!\n\n\n\nI really enjoy immersing myself in role-playing and strategy video games, particularly those with strong world-building and player choice. The Elder Scrolls series has long been a favorite, starting with Skyrim as a kid!\n\n\n\nGrowing up in a family where food was a love language, I’ve always enjoyed cooking and see it as a way to care for both the body and the spirit.\nMy favorite thing to bake is rosquillas, a traditional Nicaraguan cookie made from corn, cheese, and panela.\n\n\n\nI read a mix of nonfiction and fiction, viewing both as ways to understand our world.\nMy nonfiction reading tends to focus on society and public issues. I’m currently reading Pathogenesis, which explores how microbiology has shaped human history and social change.\nI also enjoy fiction, especially authors like Gabriel García Márquez, George Orwell, and Suzanne Collins, whose work explores politics, history, and human behavior through literary narrative."
+    "objectID": "cafo.html#background",
+    "href": "cafo.html#background",
+    "title": "Flying Under the Radar",
+    "section": "Background",
+    "text": "Background\n\nWhat Are AFOs and CAFOs?\nThe EPA defines an Animal Feeding Operation (AFO) as any facility where animals are confined and fed for at least 45 consecutive days. Concentrated Animal Feeding Operations (CAFOs) are a subset housing at least 1,000 animal units (the equivalent of 1,000 beef cattle or 2,500 large hogs). Above this threshold, facilities are technically subject to Clean Water Act, but in practice the majority operate without permits or federal monitoring. Facilities below the threshold face no federal regulation at all.\nThe environmental footprint of these operations cannot be overlooked. Fine particulate matter levels are 28% higher in census tracts with cattle operations than those without, and research has found that just 30 U.S. counties contain roughly 25% of all AFOs nationally. Ultimately, this environmental harm is concentrated in rural, low-income, and minority communities.\n\n\nWhy Methane Monitoring Matters\nBecause methane only persists in the atmosphere for about 12 years — far shorter than CO2 — rapid cuts in livestock methane could meaningfully buy time on overall greenhouse gas targets. That makes accurate measurement a prerequisite for effective policy. But satellite methane detection has historically focused on oil and gas infrastructure, leaving the agricultural sector significantly underrepresented in observational datasets.\nCarbon Mapper has begun filling that gap, using aircraft and satellite instruments to detect facility-level methane and CO2 plumes. Their publicly accessible data portal includes thousands of detections across multiple sensor platforms. But their coverage is still expanding, and where they haven’t looked, emissions go uncounted."
   },
   {
-    "objectID": "personal.html#places-memories",
-    "href": "personal.html#places-memories",
-    "title": "Personal",
-    "section": "",
-    "text": "I was born and raised in Louisville, Kentucky, best known for its bourbon, the Kentucky Derby, and fried chicken! While I currently call Minneapolis home, Louisville will always be a key part of my identity.\n\n\n\n\n\n\n\n\nThough I moved to Minnesota in 2021 for school, I quickly fell in love with the Twin Cities, and am proud to now call myself a Minnesotan (though I have yet to try Hotdish).\n\n\n\n\n\n\n\n\nStatues of “Las Gordas” can be found in Estelí, a mountainous northern department of Nicaragua, where my family is from. They celebrate abundance, fertility, and the strength of rural women.\n\n\n\n\n\n\n\n\nI spent one semester studying at Universidad Carlos III Madrid, and fell in love with one of the most beautiful cities while exploring a very different academic and cultural environment.\n\n\n\n\n\n\n\n\nOn one of my trips back home, I was able to climb at the Red River Gorge, one of the most famous climbing destinations. As per tradition, I ate Miguel’s Pizza while drinking Ale-8 Soda - two Kentucky classics.\n\n\n\n\n\n\n\n\nHiking to La Chorrera, Colombia’s tallest waterfall, reminded me how much I enjoy spending time outdoors. Whether close to home or abroad, I always enjoy spending time explore nature.\n\n\n\n\n\n\n\n\nExploring the coastline around Naples and Mount Vesuvius was incredible, but visiting Pompeii was especially unbelievable. I’ve always been fascinated by history, and seeing an ancient city preserved for nearly two thousand years was an incredible experience.\n\n\n\n\n\n\n\n\nThe most effective way to test the quality and freshness of apples at an orchard."
+    "objectID": "cafo.html#data",
+    "href": "cafo.html#data",
+    "title": "Flying Under the Radar",
+    "section": "Data",
+    "text": "Data\nCarbon Mapper scene coverage — Satellite and airborne scene footprints retrieved via the Carbon Mapper API, representing the spatial extent of observations during the study period. API responses required normalization before spatial processing, as bounding boxes were inconsistently available and geometry structures varied across endpoints.\nU.S. AFO location data — Facility-level records for cattle and hog operations across the United States, including geographic coordinates, operation type, and size classification. The dataset identified 8,763 cattle operations and 6,963 hog operations for a total of 15,726 facilities.\nNatural Earth boundary layers — State and country boundary shapefiles used as basemap reference layers."
+  },
+  {
+    "objectID": "cafo.html#methods",
+    "href": "cafo.html#methods",
+    "title": "Flying Under the Radar",
+    "section": "Methods",
+    "text": "Methods\nThe core analytical task was a spatial join between AFO point locations and Carbon Mapper scene coverage polygons. All layers were standardized to WGS84 (EPSG:4326). AFO facilities were classified as:\n\nScanned — facility falls within at least one Carbon Mapper scene footprint\nUnscanned — facility falls entirely outside available scene coverage\n\nThis classification was performed in Python using geopandas, with QGIS used for visual inspection and map output. The resulting unscanned set was then examined for spatial structure. In other words, I wanted to identify whether coverage gaps were randomly distributed or geographically concentrated.\nThe Carbon Mapper API pipeline required building a normalization layer to handle inconsistent response schemas before any spatial operations could be run. Scene geometries were sometimes missing explicit bounding boxes and had to be reconstructed from polygon coordinates directly."
+  },
+  {
+    "objectID": "cafo.html#findings",
+    "href": "cafo.html#findings",
+    "title": "Flying Under the Radar",
+    "section": "Findings",
+    "text": "Findings\nOf the 15,726 U.S. cattle and hog AFOs in the dataset, 1,222 — roughly 1 in 13 — fall entirely outside Carbon Mapper’s current satellite detection coverage. These unscanned facilities are not randomly distributed: they appear concentrated in the Midwest and, to a far less extent, the North East. Both of these regions have some of the highest AFO densities in the country.\nThis concentration matters. If the gaps were random, the resulting undercount of methane emissions would be harder to attribute. But spatially clustered coverage gaps mean that entire chunks of main agricultural regions are being excluded from observational records. Thus, emissions estimates built on available satellite data will ultimately undercount agricultural methane in precisely the areas where it is most concentrated.\nThe 1,222 unscanned AFOs identified in this analysis represent a concrete starting point for expanding satellite monitoring priorities."
+  },
+  {
+    "objectID": "cafo.html#predictive-modeling",
+    "href": "cafo.html#predictive-modeling",
+    "title": "Flying Under the Radar",
+    "section": "Predictive Modeling",
+    "text": "Predictive Modeling\nThis analysis was always intended as a foundation, not an endpoint. The project goal was the coverage gap analysis itself. Now, the natural next step would be moving from identifying unobserved facilities to predicting their likely emission profiles. Essentially, we would be asking whether spatial structure and observable CAFO characteristics could support inference about methane risk in unscanned regions.\nThis would be a significant project well beyond the scope of my 3 month internship. It would require building a modeling dataset linking each facility to features like distance to nearest detected plume, local scene frequency over time, facility size, and regional agricultural density. A classification or risk-scoring model trained on observed facilities could then be applied to the unscanned set to produce a corrected emissions surface. Additionally, any predictive model would need to explicitly account for detection probability as distinct from emission probability, given that atmospheric conditions like wind or cloud coverage are major limitations."
+  },
+  {
+    "objectID": "cafo.html#tools-stack",
+    "href": "cafo.html#tools-stack",
+    "title": "Flying Under the Radar",
+    "section": "Tools & Stack",
+    "text": "Tools & Stack\n\nPython — requests, geopandas, shapely, pandas, matplotlib\nQGIS 3.x — spatial layer management, overlay inspection, map export\nCarbon Mapper API — scene catalog, coverage polygons, plume detection metadata\nData — U.S. AFO location records, Natural Earth boundary shapefiles"
+  },
+  {
+    "objectID": "cafo.html#read-the-full-report",
+    "href": "cafo.html#read-the-full-report",
+    "title": "Flying Under the Radar",
+    "section": "Read the Full Report",
+    "text": "Read the Full Report\n\n\n\n\n\n\nTip\n\n\n\nFlying Under the Radar: Gaps in Satellite Detection of Factory Farm Methane Emissions — IATP\n\n\n\nPublished by the Institute for Agriculture and Trade Policy (IATP), February 2026 | Analysis conducted in Python and QGIS | Data: Carbon Mapper API, U.S. AFO records"
   }
 ]

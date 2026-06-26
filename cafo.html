@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="James Hernández">
+<meta name="dcterms.date" content="2026-02-09">
 
-<title>Projects – James N. Hernandez</title>
+<title>Flying Under the Radar – James N. Hernandez</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -73,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="floating nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -95,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+    <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -120,21 +122,61 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a>
+  <ul class="collapse">
+  <li><a href="#what-are-afos-and-cafos" id="toc-what-are-afos-and-cafos" class="nav-link" data-scroll-target="#what-are-afos-and-cafos">What Are AFOs and CAFOs?</a></li>
+  <li><a href="#why-methane-monitoring-matters" id="toc-why-methane-monitoring-matters" class="nav-link" data-scroll-target="#why-methane-monitoring-matters">Why Methane Monitoring Matters</a></li>
+  </ul></li>
+  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#findings" id="toc-findings" class="nav-link" data-scroll-target="#findings">Findings</a></li>
+  <li><a href="#predictive-modeling" id="toc-predictive-modeling" class="nav-link" data-scroll-target="#predictive-modeling">Predictive Modeling</a></li>
+  <li><a href="#tools-stack" id="toc-tools-stack" class="nav-link" data-scroll-target="#tools-stack">Tools &amp; Stack</a></li>
+  <li><a href="#read-the-full-report" id="toc-read-the-full-report" class="nav-link" data-scroll-target="#read-the-full-report">Read the Full Report</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
-</div>
+<h1 class="title">Flying Under the Radar</h1>
+<p class="subtitle lead">Gaps in Satellite Detection of Factory Farm Methane Emissions</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">Python</div>
+    <div class="quarto-category">Sustainability</div>
+  </div>
+  </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-right">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>James Hernández </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 9, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -144,267 +186,105 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="projects-layout">
-<div class="projects-main">
-<p><strong><em>Under Construction:</em></strong> <em>I’m currently building out detailed pages for each project as a summer side project. Please check back soon!</em></p>
-<p>A selection of research, data science, and statistical projects completed through coursework, research, and professional experiences.</p>
-<div class="filter-bar">
-<p><select id="sortSelect"> <option value="newest">Newest</option> <option value="oldest">Oldest</option> </select></p>
-<p><input id="searchBox" type="text" placeholder="Search projects"></p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="project-card" data-date="2026-01" data-tags="R,Machine Learning,Health">
-<div class="project-meta">
-<p>2026<br> James Hernandez</p>
-</div>
-<div>
-<div class="project-title">
-<p><a href="multiomic.html"> Predicting COVID Status from Multi-Omics Data </a></p>
-</div>
-<p><span class="tag">R</span> <span class="tag">Machine Learning</span> <span class="tag">Health</span></p>
-<p>
-</p><p>Evaluation and finetuning of various predictive models using, proteomic, metabolomic, and genomic clinical datasets to predict biomarkers of COVID-19.</p>
-<p>Includes supervised, unsupervised, and neural network techniques.</p>
-<p></p>
-</div>
-<div class="project-thumb">
-<p><img src="images/omics-project.png"></p>
+<div class="callout-title-container flex-fill">
+Note
 </div>
 </div>
-<div class="project-card" data-date="2025-05" data-tags="R,Machine Learning,Social Sciences">
-<div class="project-meta">
-<p>2025<br> James Hernandez</p>
-</div>
-<div>
-<div class="project-title">
-<p><a href="GeoDes.html"> Geographies of Deservingness </a></p>
-</div>
-<span class="tag">R</span> <span class="tag">Social Sciences</span> <span class="tag">Machine Learning</span>
-<p>
-Honors thesis examining asylum adjudication outcomes across U.S. states.
-</p>
-</div>
-<div class="project-thumb">
-<p><img src="images/asylum-project.png"></p>
+<div class="callout-body-container callout-body">
+<p><strong>Published work:</strong> This analysis was conducted for the <a href="https://www.iatp.org/">Institute for Agriculture and Trade Policy (IATP)</a> and published in February 2026. Read the full report: <a href="https://www.iatp.org/factory-farm-methane-satellite-mapping">Flying Under the Radar: Gaps in Satellite Detection of Factory Farm Methane Emissions</a>.</p>
+<p>This was my first exposure to GIS and spatial analysis. I taught myself QGIS, the Carbon Mapper API, and geospatial Python (geopandas, shapely) over the course of the internship while building the pipeline concurrently.</p>
 </div>
 </div>
-<div class="project-card" data-date="2026-04" data-tags="R,Machine Learning,Health">
-<div class="project-meta">
-<p>2026<br> Fabio Bolz, James Hernandez, Teresa Pham</p>
-</div>
-<div>
-<div class="project-title">
-<p><a href="mci_pred.html"> Mild Cognitive Impairment Prediction </a></p>
-</div>
-<p><span class="tag">R</span> <span class="tag">Machine Learning</span> <span class="tag">Health</span></p>
-<p>
-Comparative evaluation of random forest, SVM, LASSO, bagging, and neural network classifiers on the Wisconsin Longitudinal Study to identify early MCI. Addressed class imbalance via inverse-frequency weighting with clinical utility framing.
-</p>
-</div>
-<div class="project-thumb">
-<p><img src="images/mci-project.png"></p>
-</div>
-</div>
-<div class="project-card" data-date="2024-12" data-tags="R,Causal Inference,Social Sciences">
-<div class="project-meta">
-<p>2024<br> Nibia Becerra Santillan, James Hernandez</p>
-</div>
-<div>
-<div class="project-title">
-<p><a href="StatCap.html"> De-Venezuelization and Public Opinion in Colombia </a></p>
-</div>
-<p><span class="tag">R</span> <span class="tag">Causal Inference</span> <span class="tag">Social Sciences</span></p>
-<p>
-Difference-in-Differences analysis examining how President Petro’s “de-Venezuelization” approach shifted Colombian public attitudes toward Venezuelan migrants, using Latinobarómetro survey data from 2018–2023 and socioeconomic indicators from UN ECLAC.
-</p>
-</div>
-<div class="project-thumb">
-<p><img src="images/StatCap.png"></p>
-</div>
-</div>
-<div class="project-card" data-date="2023-11" data-tags="Python">
-<div class="project-meta">
-<p>2023<br> James Hernandez, Linh Nguyen, Na Nguyen</p>
-</div>
-<div>
-<div class="project-title">
-<p><a href="pokemon.html"> Pokemon Card Game </a></p>
-</div>
-<p><span class="tag">Python</span></p>
-<p>
-A multi-level memory card game to enhance concentration and critical thinking skills in 5-8 youth
-</p>
-</div>
-<div class="project-thumb">
-<p><img src="images/mci-project.png"></p>
-</div>
-</div>
-<div class="project-card" data-date="2026-02" data-tags="GIS,Python,Sustainability">
-<div class="project-meta">
-<p>2024<br> James Hernandez</p>
-</div>
-<div>
-<div class="project-title">
-<p><a href="cafo.html"> Factory Farm Methane &amp; Satellite Mapping </a></p>
-</div>
-<p><span class="tag">Sustainability</span> <span class="tag">GIS</span> <span class="tag">Python</span></p>
-<p>
-Created a conversational recommender system that combines natural language interaction with machine learning-based recommendation techniques to provide personalized recipe suggestions from user-specified ingredients and preferences.
-</p>
-</div>
-<div class="project-thumb">
-<p><img src="images/afomap2.png"></p>
-</div>
-</div>
-</div>
-<section id="categories" class="level3 projects-sidebar">
-<h3 class="anchored" data-anchor-id="categories">Categories</h3>
-<p><a href="#" class="category-link active" data-category="all">All</a></p>
-<p><a href="#" class="category-link" data-category="Machine Learning">Machine Learning</a></p>
-<p><a href="#" class="category-link" data-category="Health">Health</a></p>
-<p><a href="#" class="category-link" data-category="Causal Inference">Causal Inference</a></p>
-<p><a href="#" class="category-link" data-category="Sustainability">Sustainability</a></p>
-<p><a href="#" class="category-link" data-category="Social Sciences">Social Sciences</a></p>
-<p><a href="#" class="category-link" data-category="Java">Java</a></p>
-<p><a href="#" class="category-link" data-category="Python">Python</a></p>
-<p><a href="#" class="category-link" data-category="R">R</a></p>
-<p><a href="#" class="category-link" data-category="GIS">GIS</a></p>
+<p>Methane is approximately 80 times more potent than carbon dioxide over a 20-year period, and the livestock sector is the single largest contributor to global methane emissions. Despite this, factory farms are not required to report methane emissions, and environmental oversight is alarmingly relaxed. Satellite imaging has emerged as a promising tool for detecting methane plumes from these facilities, though coverage is currently incomplete.</p>
+<p>This project cross-referenced geographic U.S. Animal Feeding Operation (AFO) data with satellite scene coverage from <a href="https://carbonmapper.org/">Carbon Mapper</a>, a nonprofit remote sensing initiative that detects and quantifies methane and CO2 at the facility level. The to identify which operations are currently flying under the radar of satellite detection.</p>
+<blockquote class="blockquote">
+<p>Goal: To identify which operations are currently flying under the radar of satellite methane plume detection.*</p>
+</blockquote>
+<p>The full analysis, maps, and policy recommendations are available in the IATP publication linked above and at the bottom of this page.</p>
+<hr>
 </section>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<section id="what-are-afos-and-cafos" class="level3">
+<h3 class="anchored" data-anchor-id="what-are-afos-and-cafos">What Are AFOs and CAFOs?</h3>
+<p>The EPA defines an Animal Feeding Operation (AFO) as any facility where animals are confined and fed for at least 45 consecutive days. Concentrated Animal Feeding Operations (CAFOs) are a subset housing at least 1,000 animal units (the equivalent of 1,000 beef cattle or 2,500 large hogs). Above this threshold, facilities are technically subject to Clean Water Act, but in practice the majority operate without permits or federal monitoring. Facilities below the threshold face no federal regulation at all.</p>
+<p>The environmental footprint of these operations cannot be overlooked. Fine particulate matter levels are 28% higher in census tracts with cattle operations than those without, and research has found that just 30 U.S. counties contain roughly 25% of all AFOs nationally. Ultimately, this environmental harm is concentrated in rural, low-income, and minority communities.</p>
+</section>
+<section id="why-methane-monitoring-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-methane-monitoring-matters">Why Methane Monitoring Matters</h3>
+<p>Because methane only persists in the atmosphere for about 12 years — far shorter than CO2 — rapid cuts in livestock methane could meaningfully buy time on overall greenhouse gas targets. That makes accurate measurement a prerequisite for effective policy. But satellite methane detection has historically focused on oil and gas infrastructure, leaving the agricultural sector significantly underrepresented in observational datasets.</p>
+<p>Carbon Mapper has begun filling that gap, using aircraft and satellite instruments to detect facility-level methane and CO2 plumes. Their publicly accessible data portal includes thousands of detections across multiple sensor platforms. But their coverage is still expanding, and where they haven’t looked, emissions go uncounted.</p>
+<hr>
+</section>
+</section>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p><strong>Carbon Mapper scene coverage</strong> — Satellite and airborne scene footprints retrieved via the Carbon Mapper API, representing the spatial extent of observations during the study period. API responses required normalization before spatial processing, as bounding boxes were inconsistently available and geometry structures varied across endpoints.</p>
+<p><strong>U.S. AFO location data</strong> — Facility-level records for cattle and hog operations across the United States, including geographic coordinates, operation type, and size classification. The dataset identified 8,763 cattle operations and 6,963 hog operations for a total of 15,726 facilities.</p>
+<p><strong>Natural Earth boundary layers</strong> — State and country boundary shapefiles used as basemap reference layers.</p>
+<hr>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<p>The core analytical task was a spatial join between AFO point locations and Carbon Mapper scene coverage polygons. All layers were standardized to WGS84 (EPSG:4326). AFO facilities were classified as:</p>
+<ul>
+<li><strong>Scanned</strong> — facility falls within at least one Carbon Mapper scene footprint</li>
+<li><strong>Unscanned</strong> — facility falls entirely outside available scene coverage</li>
+</ul>
+<p>This classification was performed in Python using geopandas, with QGIS used for visual inspection and map output. The resulting unscanned set was then examined for spatial structure. In other words, I wanted to identify whether coverage gaps were randomly distributed or geographically concentrated.</p>
+<p>The Carbon Mapper API pipeline required building a normalization layer to handle inconsistent response schemas before any spatial operations could be run. Scene geometries were sometimes missing explicit bounding boxes and had to be reconstructed from polygon coordinates directly.</p>
+<hr>
+</section>
+<section id="findings" class="level2">
+<h2 class="anchored" data-anchor-id="findings">Findings</h2>
+<p>Of the 15,726 U.S. cattle and hog AFOs in the dataset, <strong>1,222 — roughly 1 in 13 — fall entirely outside Carbon Mapper’s current satellite detection coverage</strong>. These unscanned facilities are not randomly distributed: they appear concentrated in the Midwest and, to a far less extent, the North East. Both of these regions have some of the highest AFO densities in the country.</p>
+<p>This concentration matters. If the gaps were random, the resulting undercount of methane emissions would be harder to attribute. But spatially clustered coverage gaps mean that entire chunks of main agricultural regions are being excluded from observational records. Thus, emissions estimates built on available satellite data will ultimately undercount agricultural methane in precisely the areas where it is most concentrated.</p>
+<p>The 1,222 unscanned AFOs identified in this analysis represent a concrete starting point for expanding satellite monitoring priorities.</p>
+<p><img src="images/afomap2.png" class="img-fluid"></p>
+</section>
+<section id="predictive-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="predictive-modeling">Predictive Modeling</h2>
+<p>This analysis was always intended as a foundation, not an endpoint. The project goal was the coverage gap analysis itself. Now, the natural next step would be moving from <em>identifying</em> unobserved facilities to <em>predicting</em> their likely emission profiles. Essentially, we would be asking whether spatial structure and observable CAFO characteristics could support inference about methane risk in unscanned regions.</p>
+<p>This would be a significant project well beyond the scope of my 3 month internship. It would require building a modeling dataset linking each facility to features like distance to nearest detected plume, local scene frequency over time, facility size, and regional agricultural density. A classification or risk-scoring model trained on observed facilities could then be applied to the unscanned set to produce a corrected emissions surface. Additionally, any predictive model would need to explicitly account for detection probability as distinct from emission probability, given that atmospheric conditions like wind or cloud coverage are major limitations.</p>
+<hr>
+</section>
+<section id="tools-stack" class="level2">
+<h2 class="anchored" data-anchor-id="tools-stack">Tools &amp; Stack</h2>
+<ul>
+<li><strong>Python</strong> — requests, geopandas, shapely, pandas, matplotlib</li>
+<li><strong>QGIS 3.x</strong> — spatial layer management, overlay inspection, map export</li>
+<li><strong>Carbon Mapper API</strong> — scene catalog, coverage polygons, plume detection metadata</li>
+<li><strong>Data</strong> — U.S. AFO location records, Natural Earth boundary shapefiles</li>
+</ul>
+<hr>
+</section>
+<section id="read-the-full-report" class="level2">
+<h2 class="anchored" data-anchor-id="read-the-full-report">Read the Full Report</h2>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-
-  let activeCategory = "all";
-
-  const cards = Array.from(document.querySelectorAll(".project-card"));
-  const categoryLinks = document.querySelectorAll(".category-link");
-  const sortSelect = document.getElementById("sortSelect");
-  const searchBox = document.getElementById("searchBox");
-
-  // Save original order
-  cards.forEach((card, index) => {
-    card.dataset.originalOrder = index;
-  });
-
-  function applyFilters() {
-
-    const search = searchBox.value.toLowerCase();
-    const sort = sortSelect.value;
-
-    let filtered = cards.filter(card => {
-
-      const tags = card.dataset.tags
-        .split(",")
-        .map(t => t.trim());
-
-      const text = card.innerText.toLowerCase();
-
-      const categoryMatch =
-        activeCategory === "all" ||
-        tags.includes(activeCategory);
-
-      const searchMatch =
-        text.includes(search);
-
-      return categoryMatch && searchMatch;
-
-    });
-
-    // Sorting
-    if (sort === "newest") {
-
-      filtered.sort((a,b)=>
-        b.dataset.date.localeCompare(a.dataset.date)
-      );
-
-    } else if (sort === "oldest") {
-
-      filtered.sort((a,b)=>
-        a.dataset.date.localeCompare(b.dataset.date)
-      );
-
-    } else {
-
-      filtered.sort((a,b)=>
-        a.dataset.originalOrder - b.dataset.originalOrder
-      );
-
-    }
-
-    const container = document.querySelector(".projects-main");
-
-    cards.forEach(card=>{
-      card.style.display="none";
-    });
-
-    filtered.forEach(card=>{
-      card.style.display="";
-      container.appendChild(card);
-    });
-
-  }
-
-  // CATEGORY BUTTONS
-
-  categoryLinks.forEach(link=>{
-
-    link.addEventListener("click", e=>{
-
-      e.preventDefault();
-
-      const category = link.dataset.category;
-
-      if(category==="all"){
-
-        activeCategory="all";
-
-      }else if(activeCategory===category){
-
-        activeCategory="all";
-
-      }else{
-
-        activeCategory=category;
-
-      }
-
-      categoryLinks.forEach(l=>l.classList.remove("active"));
-
-      if(activeCategory==="all"){
-
-        document
-          .querySelector('[data-category="all"]')
-          .classList.add("active");
-
-      }else{
-
-        document
-          .querySelector(`[data-category="${activeCategory}"]`)
-          .classList.add("active");
-
-      }
-
-      applyFilters();
-
-    });
-
-  });
-
-  // SEARCH
-
-  searchBox.addEventListener("input", applyFilters);
-
-  // SORT
-
-  sortSelect.addEventListener("change", applyFilters);
-
-  // Initial render
-
-  applyFilters();
-
-});
-</script>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="https://www.iatp.org/factory-farm-methane-satellite-mapping">Flying Under the Radar: Gaps in Satellite Detection of Factory Farm Methane Emissions — IATP</a></p>
+</div>
+</div>
+<hr>
+<p><em>Published by the Institute for Agriculture and Trade Policy (IATP), February 2026 | Analysis conducted in Python and QGIS | Data: Carbon Mapper API, U.S. AFO records</em></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
