@@ -517,3 +517,54 @@ body {
 .gallery-caption p {
   line-height: 1.7;
 }
+
+
+
+
+
+
+
+
+
+/* ==========================
+   TOC SIDEBAR
+========================== */
+
+/* main content page TOC (toc-location: left) */
+.sidebar nav[role="doc-toc"],
+#quarto-margin-sidebar,
+.quarto-sidebar,
+nav#TOC {
+  background-color: var(--surface-color) !important;
+  border-left: 1px solid var(--border-color);
+  padding: 1rem;
+}
+
+#quarto-margin-sidebar,
+.quarto-sidebar {
+  background-color: var(--surface-color) !important;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a,
+nav#TOC ul > li > a {
+  color: var(--text-color) !important;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a:hover,
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+nav#TOC ul > li > a:hover,
+nav#TOC ul > li > a.active {
+  color: var(--accent-color) !important;
+}
+
+#toc-title {
+  color: var(--accent-color);
+  font-weight: 600;
+}
+
+
+/* remove empty right margin column */
+.quarto-sidebar-right,
+#quarto-margin-sidebar {
+  display: none !important;
+}
